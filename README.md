@@ -2,4 +2,4 @@
 
 #100daysofcode #gritinai #gritinai100daysofcode
 
-![100 days of code](Images\100daysofcode.jpg)
+![100 days of code]([Images\100daysofcode.jpg](https://github.com/GritinAI/100daysofcode2.0/blob/main/Images/100daysofcode.jpg)https://github.com/GritinAI/100daysofcode2.0/blob/main/Images/100daysofcode.jpg)
