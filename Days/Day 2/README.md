@@ -4,7 +4,7 @@
 
 ### MS Excel essentials: Cell refrencing, Arithmetic function and Named Ranges
 
-![100 days of code Day 1](Images\Day2.jpg)
+![100 days of code Day 1](https://github.com/GritinAI/100daysofcode2.0/blob/main/Images/Day2.jpg)
 
 Welcome to Day 2 of our "100 Days of Code" challenge! Today, we would be looking into Cell refrencing, Arithmetic function and Named Ranges.
 

@@ -4,7 +4,7 @@
 
 ### Exploring Data Analysis and MS Excel
 
-![100 days of code Day 1](Images\Day1.jpg)
+![100 days of code Day 1](https://github.com/GritinAI/100daysofcode2.0/blob/main/Images/Day1.jpg)
 
 Welcome to Day 1 of our "100 Days of Code" challenge! Today, we would be looking into data analysis and get introduced to Microsoft Excel (MS Excel), a versatile tool for managing and analyzing data.
 
