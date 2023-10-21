@@ -14,7 +14,7 @@ SQL Operators: Explore logical, comparison, and arithmetic operators to filter a
 **Data Query Language (DQL):** Learn to retrieve data from databases with powerful queries.
 [Click to watch Video](https://www.youtube.com/watch?v=p14udDzOQFw&t=0s)
 
-**SQL operators:**Explore logical, comparison, and arithmetic operators to filter and manipulate data effectively.
+**SQL operators:** Explore logical, comparison, and arithmetic operators to filter and manipulate data effectively.
 [Click to watch Video](https://www.youtube.com/watch?v=m1pCQCCGWoQ)
 
 
