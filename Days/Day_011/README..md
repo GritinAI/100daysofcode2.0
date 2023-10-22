@@ -1,8 +1,3 @@
-Day 11: Data Query Language and SQL Operators
-
-Data Query Language (DQL): Learn to retrieve data from databases with powerful queries.
-SQL Operators: Explore logical, comparison, and arithmetic operators to filter and manipulate data effectively.
-
 # Day 11 Resources
 
 ## Topic
