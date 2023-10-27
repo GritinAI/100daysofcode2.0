@@ -2,7 +2,7 @@
 
 ## Topic
 
-### SQL:  DML and TCL CommandsDL
+### SQL:  DML and TCL Commands
 
 ![100 days of code Day 17](https://github.com/GritinAI/100daysofcode2.0/blob/main/Images/Day17.jpg)
 
