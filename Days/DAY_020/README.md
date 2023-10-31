@@ -2,7 +2,7 @@
 
 ## Topic
 
-### SQL:  Stiored Procedures in SQL
+### SQL:  Stored Procedures in SQL
 
 ![100 days of code Day 20](https://github.com/GritinAI/100daysofcode2.0/blob/main/Images/Day20.jpg)
 
