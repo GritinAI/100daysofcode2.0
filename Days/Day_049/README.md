@@ -1,5 +1,3 @@
-
-
 # Day 49 Resources
 
 ## Topic
