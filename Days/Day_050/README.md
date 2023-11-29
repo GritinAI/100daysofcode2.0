@@ -9,7 +9,7 @@
 **Python Introduction via Jupyter Notebooks:**
 Start learning Python programming by installing Jupyter Notebooks, a tool widely used for Python coding and data analysis.
 
-[Click to watch video](https://youtu.be/WUeBzT43JyY?si=ogVFcXeTRi_-_ocw)
+[Click here to watch video](https://youtu.be/WUeBzT43JyY?si=ogVFcXeTRi_-_ocw)
 
 
 
