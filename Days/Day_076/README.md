@@ -15,7 +15,7 @@ Engage in a hospital database management project focused on a simulated hospital
 **Project Tasks:**
 Design and create SQL tables to represent patient details, staff information, medical procedures, appointments, and inventory.
 Populate the tables with sample data to simulate a functional hospital database.
-Write SQL queries to perform various operations like patient admissions, appointments scheduling, inventory management, and generating analytical reports.
+Write SQL queries to perform various operations like patient admissions, appointments scheduling, inventory management, and generating analytical reports
 
 #GritinAI #100daysofcode
 
