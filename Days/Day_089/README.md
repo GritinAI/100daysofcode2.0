@@ -6,7 +6,7 @@
 
 ![100 days of code Day 89](https://github.com/GritinAI/100daysofcode2.0/blob/main/Images/Day89.jpg)
 
-**Day 88: COVID-19 Dataset**
+**Day 89: COVID-19 Dataset**
 
 **Project description:** The COVID-19 dataset is a collection of data related to the COVID-19 pandemic, curated and made available for analysis using Tableau.
 
@@ -15,7 +15,6 @@ This tableau dataset includes a wide range of information, such as the number of
 
 
 Some of the variables included in the tableau dataset:
-
 
 Date: The date of the observation.
 Country/Region: The name of the country or region currently observed.
