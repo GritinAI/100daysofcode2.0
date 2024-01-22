@@ -8,16 +8,16 @@
 
 **Day 91: Pokemon  Dataset**
 
-**Project description:** This dataset contains information on songs, artists and playlists from the music streaming platform, Spotify. It can be used to explore patterns in popular artists, music consumption, genres and playlists.
+**Project description:** The Pokemon Index dataset is a collection of information about the different species of Pokemon. It includes data such as the name, type, abilities, stats, and moves of each Pokemon. The dataset is often used by researchers, developers, and enthusiasts to study and analyze various aspects of the Pokemon franchise, such as game mechanics, strategy, and popularity.
 
 
-The Spotify Tracks DB dataset can be used to create visualizations on Tableau, that can assist users in understanding how people consume and interact with music on the Spotify platform.
+Note: There are several versions of this tableau dataset available, including ones that cover different regions or generations of the Pokemon games, as well as ones that include additional data such as sprite images or evolutionary trees.
 
-You can download this tableau dataset [here](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db/download?datasetVersionNumber=3&ref=hackernoon.com).
+You can download this tableau dataset [here](https://public.tableau.com/app/sample-data/pokemon.xlsx?ref=hackernoon.com).
 
 
 **Project Tasks:**
-This dataset can be used for analyzing musical trends, predicting popular songs, and developing recommendation systems.
+This tableau dataset can be used for analyzing the popularity of different Pokemon, predicting the outcomes of battles, and developing recommendation systems.
 
 
 #GritinAI #100daysofcode

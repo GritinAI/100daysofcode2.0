@@ -4,7 +4,7 @@
 
 ### Tableau Project
 
-![100 days of code Day 90](https://github.com/GritinAI/100daysofcode2.0/blob/main/Images/Day89.jpg)
+![100 days of code Day 90](https://github.com/GritinAI/100daysofcode2.0/blob/main/Images/Day90.jpg)
 
 **Day 90: Spotify Tracks Dataset**
 
